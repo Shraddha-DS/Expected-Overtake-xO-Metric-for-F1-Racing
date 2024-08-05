@@ -1,4 +1,4 @@
-# f1_xo_project
+# Expected Overtake
  Formula 1 Expected Overtakes Project
 
 A repository for a machine learning sports analytics Graduate school project focussed on developing an Expected Overtakes (xO) metric for Formula 1 racing, analogous to the Expected Goals (xG) metric from association football, with the pleasant side-effect of providing a central location for tidy-compliant F1 data.
